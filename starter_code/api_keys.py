@@ -1,3 +1,5 @@
 # OpenWeatherMap API Key
-api_key = "56f67cbc6c5205aa4ad93b76f29299a7"
+# API Keys should not be uploaded to GitHub
+# Go to https://openweathermap.org/api to request an API Key from OpenWeatherMap API
+api_key = ""
 
